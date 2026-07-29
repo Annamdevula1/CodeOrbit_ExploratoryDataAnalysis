@@ -60,13 +60,13 @@ https://colab.research.google.com/drive/1wOW1VEpybixTtFE9LNYgftxiHZZxhQ2Y?usp=sh
 <img width="1920" height="1080" alt="Screenshot 2026-07-29 17 52 45" src="https://github.com/user-attachments/assets/61a4b772-8cc3-40ca-8a80-402a0e51c6db" />
 
 ### Histogram
-<img width="1920" height="1080" alt="Screenshot 2026-07-29 17 52 57" src="https://github.com/user-attachments/assets/97aa79a3-4d7a-44ef-93a5-3853d0855234" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-29 18 18 10" src="https://github.com/user-attachments/assets/214af685-5d0c-4c7d-9f8d-1c0d9d965f17" />
+
 
 ### Scatter Plot
-<img width="1920" height="1080" alt="Screenshot 2026-07-29 17 53 08" src="https://github.com/user-attachments/assets/9234d62e-a2c9-4d81-9bfa-bb5fba74488a" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-29 18 15 17" src="https://github.com/user-attachments/assets/a5fce3a7-c24e-4a43-a15b-103fba5de430" />
 
 ### Box Plot
-<img width="1920" height="1080" alt="Screenshot 2026-07-29 17 53 14" src="https://github.com/user-attachments/assets/b131137e-5a1b-4e16-a4b2-709a286f1426" />
-
+<img width="1920" height="1080" alt="Screenshot 2026-07-29 18 15 32" src="https://github.com/user-attachments/assets/e133b6f2-bd4a-4940-8e3e-a90c47837560" />
 
 ## GitHub Repository
