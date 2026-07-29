@@ -64,10 +64,12 @@ https://colab.research.google.com/drive/1wOW1VEpybixTtFE9LNYgftxiHZZxhQ2Y?usp=sh
 
 
 ### Histogram
-(Add screenshot)
+<img width="1920" height="1080" alt="Screenshot 2026-07-29 17 52 57" src="https://github.com/user-attachments/assets/97aa79a3-4d7a-44ef-93a5-3853d0855234" />
+
 
 ### Scatter Plot
-(Add screenshot)
+<img width="1920" height="1080" alt="Screenshot 2026-07-29 17 53 02" src="https://github.com/user-attachments/assets/63a16854-323f-4385-84b2-949283274ed1" />
+
 
 ### Box Plot
 (Add screenshot)
