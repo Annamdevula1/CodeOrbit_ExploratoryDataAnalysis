@@ -54,11 +54,14 @@ https://colab.research.google.com/drive/1wOW1VEpybixTtFE9LNYgftxiHZZxhQ2Y?usp=sh
 ## Screenshots
 
 ### Dataset Preview
-<img width="1920" height="1080" alt="Screenshot 2026-07-29 17 52 45" src="https://github.com/user-attachments/assets/61a4b772-8cc3-40ca-8a80-402a0e51c6db" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-29 18 06 23" src="https://github.com/user-attachments/assets/0673215d-1666-4377-a8bc-6ae67811b178" />
+
 
 
 ### Descriptive Statistics
-(Add screenshot)
+<img width="1920" height="1080" alt="Screenshot 2026-07-29 17 52 45" src="https://github.com/user-attachments/assets/61a4b772-8cc3-40ca-8a80-402a0e51c6db" />
+
+
 
 ### Histogram
 (Add screenshot)
