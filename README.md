@@ -68,11 +68,13 @@ https://colab.research.google.com/drive/1wOW1VEpybixTtFE9LNYgftxiHZZxhQ2Y?usp=sh
 
 
 ### Scatter Plot
-<img width="1920" height="1080" alt="Screenshot 2026-07-29 17 53 02" src="https://github.com/user-attachments/assets/63a16854-323f-4385-84b2-949283274ed1" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-29 17 53 08" src="https://github.com/user-attachments/assets/9234d62e-a2c9-4d81-9bfa-bb5fba74488a" />
+
 
 
 ### Box Plot
-(Add screenshot)
+<img width="1920" height="1080" alt="Screenshot 2026-07-29 17 53 20" src="https://github.com/user-attachments/assets/b1d74b2a-7543-4d59-b1ba-f9586b8a2c48" />
+
 
 
 ## GitHub Repository
