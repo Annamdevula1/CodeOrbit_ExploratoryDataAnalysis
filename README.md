@@ -69,14 +69,6 @@ https://colab.research.google.com/drive/1wOW1VEpybixTtFE9LNYgftxiHZZxhQ2Y?usp=sh
 ### Box Plot
 (Add screenshot)
 
-## Key Findings
-(Your EDA findings)
-
-## Conclusion
-(Project conclusion)
 
 ## GitHub Repository
-(Add your GitHub link here)
 
-Example:
-[View Project on GitHub](your_github_link)
