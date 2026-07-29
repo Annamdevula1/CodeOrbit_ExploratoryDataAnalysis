@@ -56,25 +56,17 @@ https://colab.research.google.com/drive/1wOW1VEpybixTtFE9LNYgftxiHZZxhQ2Y?usp=sh
 ### Dataset Preview
 <img width="1920" height="1080" alt="Screenshot 2026-07-29 18 06 23" src="https://github.com/user-attachments/assets/0673215d-1666-4377-a8bc-6ae67811b178" />
 
-
-
 ### Descriptive Statistics
 <img width="1920" height="1080" alt="Screenshot 2026-07-29 17 52 45" src="https://github.com/user-attachments/assets/61a4b772-8cc3-40ca-8a80-402a0e51c6db" />
-
-
 
 ### Histogram
 <img width="1920" height="1080" alt="Screenshot 2026-07-29 17 52 57" src="https://github.com/user-attachments/assets/97aa79a3-4d7a-44ef-93a5-3853d0855234" />
 
-
 ### Scatter Plot
 <img width="1920" height="1080" alt="Screenshot 2026-07-29 17 53 08" src="https://github.com/user-attachments/assets/9234d62e-a2c9-4d81-9bfa-bb5fba74488a" />
 
-
-
 ### Box Plot
-<img width="1920" height="1080" alt="Screenshot 2026-07-29 17 53 20" src="https://github.com/user-attachments/assets/b1d74b2a-7543-4d59-b1ba-f9586b8a2c48" />
-
+<img width="1920" height="1080" alt="Screenshot 2026-07-29 17 53 14" src="https://github.com/user-attachments/assets/b131137e-5a1b-4e16-a4b2-709a286f1426" />
 
 
 ## GitHub Repository
