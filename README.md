@@ -1,4 +1,4 @@
-                                              # EXPLORATORY-DATA-ANALYSIS-TASK-2
+                   # EXPLORATORY-DATA-ANALYSIS-TASK-2
 # Exploratory Data Analysis (EDA)
 
 # Project title:
